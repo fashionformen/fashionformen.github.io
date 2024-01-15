@@ -11,7 +11,7 @@ Jeansjacken sind ein zeitloser Klassiker, aber 2024 bringen sie frischen Wind in
 
 ### Der Klassiker neu interpretiert
 
-Die traditionelle blaue Jeansjacke bleibt ein Muss in jedem Kleiderschrank. In diesem Jahr sehen wir jedoch eine Neuinterpretation dieses Klassikers mit modernen Schnitten und einzigartigen Waschungen. Ob Oversize für einen lässigen Look oder tailliert für eine schickere Variante – der Klassiker bleibt, aber mit einem frischen Touch.
+Die traditionelle blaue <a href="https://de.wikipedia.org/wiki/Jeans" target="_blank">Jeansjacke</a> bleibt ein Muss in jedem Kleiderschrank. In diesem Jahr sehen wir jedoch eine Neuinterpretation dieses Klassikers mit modernen Schnitten und einzigartigen Waschungen. Ob Oversize für einen lässigen Look oder tailliert für eine schickere Variante – der Klassiker bleibt, aber mit einem frischen Touch.
 
 ### Nachhaltige Mode
 
