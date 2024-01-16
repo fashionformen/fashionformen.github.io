@@ -39,7 +39,7 @@ Das Trucker-Jacken-Design ist klassisch. Es zeichnet sich in der Regel durch ein
 
 Außerdem noch etwas Cooles: Denim entwickelt sich weiter. Es verändert sich im Laufe der Zeit. Deine Jacke wird allmählich verblassen und sich auf eine Art und Weise abnutzen, die einzigartig für dich ist. Es ist wie deine eigene persönliche Stilgeschichte.
 
-<img src="/beste-jeansjacke-2024.jpg">
+<img src="/beste-jeansjacke-2024.jpg" alt="beste jeansjacke 2024">
 
 Preis: Der Verkaufspreis beträgt 129,95 €
 
