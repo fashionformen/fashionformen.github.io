@@ -13,7 +13,10 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 	<body>
 		<Header title={SITE_TITLE} />
 		<main>
+			<div class="carousel">
 			<img src="/fashion-for-men.webp" alt="fashion for men - mode für den mann blog">
+			<img src="/fashion-blog-herren.webp" alt="fashion blog herren">
+			</div>
 			<h1>Willkommen zu Fashion for Men!</h1>
 			<p>
 				Willkommen bei 'Fashion for Men'! Hey, ich weiß, du bist hier, weil du deinen Style aufs nächste Level bringen willst. Und genau dafür sind wir da. In unserem Blog geht's rund um die neuesten Trends in der Männermode.
@@ -45,3 +48,13 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 		<Footer />
 	</body>
 </html>
+
+
+<style>
+	.carousel {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-gap: 12px;
+		margin-bottom: 12px;
+	}
+</style>
