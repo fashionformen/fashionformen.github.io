@@ -185,16 +185,30 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"blog": {
-"first-post.md": {
-	id: "first-post.md";
-  slug: "first-post";
+"beste-rucksaecke-maenner.md": {
+	id: "beste-rucksaecke-maenner.md";
+  slug: "beste-rucksaecke-maenner";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"markdown-style-guide.md": {
-	id: "markdown-style-guide.md";
-  slug: "markdown-style-guide";
+"besten-hochzeitsanzuege.md": {
+	id: "besten-hochzeitsanzuege.md";
+  slug: "besten-hochzeitsanzuege";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"besten-jeansjacken.md": {
+	id: "besten-jeansjacken.md";
+  slug: "besten-jeansjacken";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"weiße-leder-sneaker.md": {
+	id: "weiße-leder-sneaker.md";
+  slug: "weiße-leder-sneaker";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
